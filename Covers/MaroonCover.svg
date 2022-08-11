@@ -1,0 +1,37 @@
+<svg width="1120" height="1580" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1">
+   <defs>
+      <pattern id="lines" width="50" height="50" patternUnits="userSpaceOnUse">
+         <line x1="0" y1="5" x2="50" y2="5" style="stroke:#fff;" id="line2" />
+      </pattern>
+   </defs>
+   <style>
+      text {
+         font-family: ' Noto Sans', sans-serif;
+         font-weight: bold;
+         fill: WhiteSmoke;
+      }
+
+      .vertical {
+         writing-mode: tb;
+      }
+   </style>
+   <rect width="100%" height="100%" fill="Maroon" />
+   <rect x="400" y="350" width="75%" height="50%" style="stroke:none; fill: url(#lines);" />
+
+   <polygon points="75,0 1120,0 1120,1580 75,1580 75,350 175,350 175,330 75,330"
+      style="stroke:none; fill:#fff; opacity:0.5;" />
+
+   <text x="180" y="1450" style="font-size: 160; letter-spacing:-10;">BOOTCAMP</text>
+
+   <text x="190" y="1500" style="font-size: 40;">Software Engineering</text>
+
+   <text x="125" y="100" class="vertical" style="font-size:100px;">2022</text>
+
+   <text x="150" y="360" class="vertical" style="font-size:40px;">
+      <tspan style="font-size:54px">A3</tspan>
+      <tspan style="font-size:18px">1120x1580</tspan>
+   </text>
+
+   <text x="105" y="360" class="vertical" style="font-size:35px;">University of Maryland Global Campus</text>
+</svg>

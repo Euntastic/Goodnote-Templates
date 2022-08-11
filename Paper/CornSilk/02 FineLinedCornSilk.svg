@@ -1,0 +1,10 @@
+<svg width="1120" height="1580" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.1">
+	<defs>
+		<pattern id="lines" width="10" height="10" patternUnits="userSpaceOnUse">
+			<line x1="0" y1="5" x2="10" y2="5" style="stroke:#DCDCDC;" />
+		</pattern>
+	</defs>
+	<rect width="100%" height="100%" fill="cornsilk" />
+	<rect x="20" y="100" width="1080" height="1440" style="stroke:none; fill: url(#lines);" />
+</svg>
