@@ -2,3 +2,7 @@
 
 A simple collection of Goodnote templates in the style of kokuyo campus notebooks.
 Created in svg in order to minimize file size.
+
+## Notes
+
+`main.py` currently does not convert anything.
